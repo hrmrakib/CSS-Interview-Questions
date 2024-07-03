@@ -39,7 +39,7 @@ This is one of the most frequently asked CSS interview questions. Z-index is use
 
 
 ### 7. What is CSS Box Model and what are its elements?
-<aside>
+
 ➡️ This box defines design and layout of elements of CSS. The elements are:
 
 **Margin**: the top most layer, the overall structure is shown
@@ -50,7 +50,65 @@ This is one of the most frequently asked CSS interview questions. Z-index is use
 
 **Content**: Actual content is shown.
 
+### 8. What is the grid system?
+The CSS grid system is a type of powerful layout of 2 dimensional systems with respect to columns and rows.
 
+### 9. What is the difference between flex and grid?
+
+The flex system is 1 dimensional and grid system is 2 dimensional layout.
+
+### 10. What does !important mean in CSS?
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
 
 
 

@@ -2,9 +2,9 @@
 
 A brief description of what this project does and who it's for
 
-### What is CSS?
+### 1. What is CSS?
 
 CSS (Cascading Style Sheets) is a language used to style the presentation of web pages written in HTML and XHTML. It controls how HTML elements are displayed on screen, in print, or in other media. CSS allows developers to define colors, fonts, layouts, and other visual aspects, ensuring consistent and attractive design across different devices and screen sizes.
 
-### What do you understand by the universal sector?
+### 2. What do you understand by the universal sector?
 A universal selector is a selector that matches any element type's name instead of selecting elements of a particular type.

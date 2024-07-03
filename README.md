@@ -83,37 +83,61 @@ background property is a shorthand of the following property:
 ```css
 ➡️ background:
 
-- `background-color`
-- `background-image`
-- `background-repeat`
-- `background-attachment`
-- `background-position`
-- `background` (shorthand property)
+ `background-color`
+ `background-image`
+ `background-repeat`
+ `background-attachment`
+ `background-position`
+ `background` (shorthand property)
 ```
 
-###
+### 15. What is the use of CSS Opacity?
+The CSS opacity property is used to specify the transparency of an element. In simple word, you can say that it specifies the clarity of the image. In technical terms, Opacity is defined as the degree to which light is allowed to travel through an object.
 
+### 16. Explain CSS box-sizing: border-box
+`box-sizing: border-box;` adjusts the box model so that an element's padding and border are included in its specified width and height, simplifying layout management and ensuring predictable element dimensions.
 
-###
+### 17. How can CSS be integrated into an HTML page?
 
+➡️ There are three ways of integrating CSS into HTML:
 
-###
+1. Using style tags in the head section
+2. Using inline styling
+3. Writing CSS in a separate file, and linking to the HTML page by the link tag.
 
+### 18. Explain a few advantages of CSS. 
+With CSS, different documents can be controlled using a single site, styles can be grouped in complex situations using selectors and grouping methods, and multiple HTML elements can have classes.
 
-###
+### 19. What is meant by RGB stream?
+RGB represents colors in CSS. The three streams are namely Red, Green, and Blue. The intensity of colors is represented using numbers 0 to 255. This allows CSS to have a spectrum of visible colors. 
 
+### 20. How can you target h3 and h2 with the same styling?
 
-###
+➡️ Multiple elements can be targeted by separating with a comma:
 
+h2, h3 {color: red;}
 
-###
+### 21. Name media types allowed by CSS.
 
+➡️ The different media types allowed by CSS are:
+```
+- speech
+- audio
+- visual
+- tactile media
+- continuous or paged media
+- grip media or bitmap
+- interactive media
+```
 
-###
+### 22. How can you use CSS to control image repetition?
+➡️ The background-repeat property is used to control the image. Example:
 
+h3 {
 
-###
+background-repeat: none;
 
+}
 
 ###
 

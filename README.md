@@ -33,8 +33,8 @@ This is one of the most frequently asked CSS interview questions. Z-index is use
 
 
 ### 6. What is the difference between inline, inline-block, and block?
-1. Block Elements are <div> and <p>. They usually start on a new line and can take space for an entire row or width.
-2. Inline elements are <a>, <span>, <strong>, and <img> tags. They don't start on a new line. However, they appear on the same line as the content and tags beside them.
+1. Block Elements are `<div> and <p>`. They usually start on a new line and can take space for an entire row or width.
+2. Inline elements are `<a>, <span>, <strong>, and <img>` tags. They don't start on a new line. However, they appear on the same line as the content and tags beside them.
 3. Inline block elements have padding and margins and set height and width values. Though, they are similar to inline elements.
 
 
@@ -58,19 +58,38 @@ The CSS grid system is a type of powerful layout of 2 dimensional systems with r
 The flex system is 1 dimensional and grid system is 2 dimensional layout.
 
 ### 10. What does !important mean in CSS?
+The style “!important” in the CSS has the highest precedence. Also, the cascaded property will be overridden with it.
 
+### 11. Does this property work overflow: hidden?
+Overflow: the hidden property is used to specify the content’s clipping. We need to add scrollbars to the content area at the time of specified container size exceeding the content limit where the content gets enclosed. This makes the content invisible via clipping; also the overflow value will be hidden.
 
-###
+### 12. Tell us about CSS float property.
+The float property of CSS positions an image to the right or left as needed, including text wrapping around it. All properties of elements used before it remain unchanged.
 
+### 13. What are the CSS frameworks?
 
-###
+➡️ CSS frameworks are the preplanned libraries that make easy and more standard-compliant web page styling. The frequently used CSS frameworks are: -
+```
+- Bootstrap
+- Foundation
+- Semantic UI
+- Gumby
+- Ulkit
+```
 
+### 14. What is the difference between background and background-color?
+background property is a shorthand of the following property:
 
-###
+```css
+➡️ background:
 
-
-###
-
+- `background-color`
+- `background-image`
+- `background-repeat`
+- `background-attachment`
+- `background-position`
+- `background` (shorthand property)
+```
 
 ###
 

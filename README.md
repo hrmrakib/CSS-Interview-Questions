@@ -16,3 +16,11 @@ A universal selector is a selector that matches any element type's name instead 
 }
 
 ```
+
+### 3. What are the elements of the CSS Box Model? 
+<aside>
+➡️ The CSS box model defines the layout and design of CSS elements. The elements are content (like text and images, padding (the area around content), border (the area around padding), and margin (the area around the border).
+
+` → Content, Padding, Border, Margin `
+
+### 
